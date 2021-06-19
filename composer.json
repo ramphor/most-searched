@@ -1,0 +1,19 @@
+{
+  "name": "ramphor/most-searched",
+  "description": "Create the most searched for your WordPress site",
+  "type": "library",
+  "license": "GPL-3.0-or-later",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Puleeno Nguyen",
+      "email": "puleeno@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Ramphor\\MostSearched\\": "src/"
+    }
+  }
+}
